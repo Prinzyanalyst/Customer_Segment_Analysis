@@ -251,11 +251,8 @@ ORDER BY 2;
 
 
 ***
-
 Data Visualization
-
-***
-Insight
+![](Customer_segment.png)
 
 ***
 ## **Recommendations**
