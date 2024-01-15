@@ -2,9 +2,12 @@
 
 ![](Segmentation.jpg)
 
-***
 ## **Introduction**
 
+## **Tool Used**
+1. MySQL
+
+***
 Imagine staring at a vast ocean, teeming with different fishes each with its unique traits and preferences. To understand this complex ecosystem, you wouldn't try to analyze each fish individually, right? You'd segment them: schools of tuna feeding on the surface, pods of dolphins playfully navigating the currents, and perhaps even the elusive giant squid lurking in the depths.
 
 Customer segment analysis works similarly. It's like casting a net into the vast ocean of your customer base, pulling out distinct groups with shared characteristics and behaviors. But instead of fins and scales, these segments are defined by things like demographics, purchasing habits, and engagement patterns. By understanding these segments, you can:
