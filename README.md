@@ -2,11 +2,11 @@
 
 ![](Segmentation.jpg)
 
-## **Introduction**
-
 ## **Tool Used**
 1. MySQL
+***
 
+## **Introduction**
 ***
 Imagine staring at a vast ocean, teeming with different fishes each with its unique traits and preferences. To understand this complex ecosystem, you wouldn't try to analyze each fish individually, right? You'd segment them: schools of tuna feeding on the surface, pods of dolphins playfully navigating the currents, and perhaps even the elusive giant squid lurking in the depths.
 
